@@ -21,16 +21,17 @@ h1 {
   margin: 50px 0 45px;
 }
 
-.cards__items {
+.cards__item {
   margin-bottom: 24px;
 }
 
 .cards__item {
-  display: flex;
+  display:inline;
   flex: 1;
   margin: 0 1rem;
   border-radius: 10px;
 }
+
 
 .cards__item__link {
   display: flex;
@@ -81,7 +82,7 @@ h1 {
   max-width: 100%;
   height: 100%;
   max-height: 100%;
-  object-fit: cover;
+  object-fit: fill;
   transition: all 0.2s linear;
 }
 
@@ -112,7 +113,7 @@ h1 {
 }
 
 @media only screen and (max-width: 1024px) {
-  .cards__item {
+  .cards__items {
     margin-bottom: 2rem;
   }
 }
