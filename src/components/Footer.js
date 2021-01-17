@@ -10,7 +10,7 @@ function Footer() {
                 <p className="footer-subscription-heading">
                     Join the Adventure newsletter to receive our best vacation deals
                 </p>
-                <p className="footer-subcription-text">
+                <p className="footer-subscription-text">
                     You can unsubscribe at any time
                 </p>
                 <div className="input-areas">
@@ -57,6 +57,56 @@ function Footer() {
                     </div>
                 </div>
             </div>
+            <section className="social-media">  
+                <div className="social-media-wrap">
+                    <div className="footer-logo">
+                        <Link to="/"className="social-logo">
+                            NXT TRVL <i className="fab fa-typo3" />
+                        </Link>
+                    </div>
+                    <small className="website-rights">
+                        NXT TRVL © 2021
+                    </small>
+                    <div className="social-icons">
+                        <Link className="social-icon-link facebook"
+                        to="/"
+                        target="_blank"
+                        aria-label="Facebook"
+                        >
+                            <i className="fab fa-facebook-f"></i>
+                        </Link>
+                        <Link className="social-icon-link instagram"
+                        to="/"
+                        target="_blank"
+                        aria-label="Instagram"
+                        >
+                            <i className="fab fa-instagram"></i>
+                        </Link>
+                        <Link className="social-icon-link youtube"
+                        to="/"
+                        target="_blank"
+                        aria-label="Youtube"
+                        >
+                            <i className="fab fa-youtube"></i>
+                        </Link>
+                        <Link className="social-icon-link twitter"
+                        to="/"
+                        target="_blank"
+                        aria-label="Twitter"
+                        >
+                            <i className="fab fa-twitter"></i>
+                        </Link>
+                        <Link className="social-icon-link likedin"
+                        to="/"
+                        target="_blank"
+                        aria-label="LinkedIn"
+                        >
+                            <i className="fab fa-linkedin"></i>
+                        </Link>
+                    </div>
+                </div>
+
+            </section>
         </div>
     )
 }
