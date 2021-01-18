@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Button } from './Button';
 import './Footer.css';
 
+//footer section with all the information and links
 function Footer() {
     return (
         <div className="footer-container">
@@ -111,4 +112,4 @@ function Footer() {
     )
 }
 
-export default Footer
+export default Footer;

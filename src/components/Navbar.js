@@ -3,6 +3,7 @@ import { Button } from './Button';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
+//navigation bar components with mobile functionality
 function Navbar() {
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
@@ -23,7 +24,7 @@ function Navbar() {
   }, []);
 
   window.addEventListener('resize', showButton);
-
+//Navbar info and logo with mobile menu functionality
   return (
     <>
       <nav className='navbar'>

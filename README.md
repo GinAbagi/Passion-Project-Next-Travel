@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# **Next Travel Website (React) Passion Project**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Inhoudsopgave
 
-## Available Scripts
+- Introductie
+- Gebruiksaanwijzing
+- Download links en instructie
+- Gebruikte talen
+- verdere instructies
+- Feedback
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## **Introductie**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> **Next Travel Website**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Een van mijn passies is reizen, ik maak het liefst verre reizen naar Amerika, de Bahama's of andere landen. Om deze reden heb ik voor mijn Passion Project een Travel website gemaakt. Dit is een responsive website gemaakt met React.js, CSS en HTML.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **Gebruiksaanwijzing**
 
-### `npm run build`
+Om het project zelf te hosten kan je de volgende stappen uitvoeren:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone mijn [GIT](https://github.com/GinAbagi/Passion-Project-Next-Travel) repository.
+2. Zorg ervoor dat je de React dependincies hebt
+3. De volgende code starten in de terminal van je code editor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm start
+# or
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. [Localhost:3000](http://localhost:3000/) wordt geopend en je kunt aan de slag
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## **Download links en links**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> **Download links**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+De repository is te clonen op mijn [GIT](https://github.com/GinAbagi/Passion-Project-Next-Travel)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## **Gebruikte talen**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
 
-### Code Splitting
+[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## **Verdere instructies**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Meer leren over React.js kan via de volgende bronnen:
 
-### Making a Progressive Web App
+Je kan meer leren over het [creëren van React App Documentatie](https://facebook.github.io/create-react-app/docs/getting-started). Voor het leren van React.js klik op de [Link](https://reactjs.org/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+En hier bevindt zich ook de [Link](https://www.youtube.com/watch?v=I2UBjN5ER4s&list=PLooaAnOKyavp7b4QnP6hjGCU0Y943kr5x&index=5 "youtube") naar de tutorials op Youtube.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## **Feedback**
 
-### Deployment
+Ik ontvang graag feedback op mijn gemaakte werk. Feedback kan gegeven worden via de issues tab op [GIT](https://github.com/GinAbagi/Passion-Project-Next-Travel/issues) of via Microsoft Teams.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Gin Abagi :v:

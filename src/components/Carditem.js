@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-
+//card items function, size the cards and input of text and image
 function CardItem(props) {
     return (
         <>

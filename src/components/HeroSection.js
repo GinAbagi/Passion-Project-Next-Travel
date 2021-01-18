@@ -3,6 +3,7 @@ import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
 
+//homepage information en video tab
 function HeroSection() {
     return (
         <div className="hero-container">
@@ -25,4 +26,4 @@ function HeroSection() {
     )
 }
 
-export default HeroSection
+export default HeroSection;

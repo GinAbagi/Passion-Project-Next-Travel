@@ -26,7 +26,7 @@ h1 {
 }
 
 .cards__item {
-  display:inline;
+  display: inline;
   flex: 1;
   margin: 0 1rem;
   border-radius: 10px;
