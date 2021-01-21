@@ -43,6 +43,8 @@ yarn start
 
 De repository is te clonen op mijn [GIT](https://github.com/GinAbagi/Passion-Project-Next-Travel)
 
+Mijn website is ook te bezoeken op: [Link](http://i415308.hera.fhict.nl/) 
+
 ---
 
 ## **Gebruikte talen**
